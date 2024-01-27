@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @Pilot2254
 - 👀 I’m interested in programming / developing websites
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on valorant esports
 - 📫 You can reach me here: https://www.team-redfox.eu/contact
