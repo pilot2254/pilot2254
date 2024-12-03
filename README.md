@@ -1,8 +1,8 @@
 <div align="center">
 
-  # 👋 Hello, I'm Mike!
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Geist&weight=500&size=35&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&repeat=false&width=435&lines=Hello!+My+name+is+Mike)](https://git.io/typing-svg)
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Geist&size=25&duration=4000&pause=1000&color=00FFC1&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Web+Developer;Game+Developer;Founder+of+RedFox+Studios)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Geist&size=25&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&repeat=false&width=435&lines=Web+Developer;Game+Developer;Founder+of+RedFox+Studios)](https://git.io/typing-svg)
 
   [![View Count](https://visitcount.itsvg.in/api?id=Pilot2254&icon=6&color=9)](https://visitcount.itsvg.in)
 </div>
