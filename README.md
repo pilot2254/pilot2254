@@ -98,5 +98,6 @@
 </div>
 
 <div align="center">
+  
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Geist&size=25&pause=1000&color=00FFC1&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Go+Touch+Some+Grass.;It's+Really+Important.)](https://git.io/typing-svg)
 </div>
