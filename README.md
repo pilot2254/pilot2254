@@ -2,9 +2,7 @@
 
   # 👋 Hello, I'm Mike!
   
-  ### 🎮 Game & Web Dev | 🎨 Designer | Founder of [RedFox Studios](https://github.com/RedFox-Studios)
-  
-  Welcome to my GitHub profile! I'm passionate about game and web development, crafting innovative digital experiences with clean code and creative designs.
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Geist&size=25&duration=4000&pause=1000&color=00FFC1&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Web+Developer;Game+Developer;Founder+of+RedFox+Studios)](https://git.io/typing-svg)
 
   [![View Count](https://visitcount.itsvg.in/api?id=Pilot2254&icon=6&color=9)](https://visitcount.itsvg.in)
 </div>
@@ -95,9 +93,4 @@
 
   ## 💰 Support My Work
   <a href="https://ko-fi.com/pilot2254"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Support me on Ko-fi" /></a>
-</div>
-
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Geist&size=25&pause=1000&color=00FFC1&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Go+Touch+Some+Grass.;It's+Really+Important.)](https://git.io/typing-svg)
 </div>
