@@ -94,3 +94,5 @@
   ## 💰 Support My Work
   <a href="https://ko-fi.com/pilot2254"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Support me on Ko-fi" /></a>
 </div>
+
+Note for myself: #2dd4bf
