@@ -6,3 +6,5 @@ A small collection of quotes
 - "If you're afraid to fail, then you're probably going to fail."
 
 - "Man is least himself when he talks in his own person. Give him a mask, and he will tell you the truth."
+
+- "If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime."
