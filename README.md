@@ -55,44 +55,4 @@
   ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 <br>
 
-<div align="center">
-  
-  ## 📊 GitHub Stats
-  <img src="https://github-readme-stats.vercel.app/api?username=Pilot2254&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pilot2254&theme=dark&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pilot2254&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</div>
-
-<br>
-
-<div align="center">
-  
-  ## 🏆 GitHub Trophies
-  <img src="https://github-profile-trophy.vercel.app/?username=Pilot2254&theme=onedark&no-frame=false&no-bg=false&margin-w=4" />
-</div>
-
-<br>
-
-<div align="center">
-
-  ### ✍️ Dev Quote of the Day
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</div>
-
-<br>
-
-<div align="center">
-
-  ### 🔝 Top Contributed Repo
-  <img src="https://github-contributor-stats.vercel.app/api?username=Pilot2254&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</div>
-
-<br>
-
-<div align="center">
-
-  ## 💰 Support My Work
-  <a href="https://ko-fi.com/pilot2254"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Support me on Ko-fi" /></a>
-</div>
-
 Note for myself: #2dd4bf
