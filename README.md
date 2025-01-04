@@ -1,35 +1,7 @@
-<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Geist&weight=500&size=35&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&repeat=false&width=435&lines=Hello!+My+name+is+Mike)](https://git.io/typing-svg)
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Geist&weight=500&size=35&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&repeat=false&width=435&lines=Hello!+My+name+is+Mike)](https://git.io/typing-svg)
+  <br>
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Geist&size=25&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Web+Developer;Game+Developer;Founder+of+RedFox+Studios)](https://git.io/typing-svg)
-
-  [![View Count](https://visitcount.itsvg.in/api?id=Pilot2254&icon=6&color=9)](https://visitcount.itsvg.in)
-</div>
-
-<br>
-
-<div align="center">
-
-  ## 🌐 Connect with Me
-  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/JWVMk9pvPS)
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/michal.flaska)
-  [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/pilot2254)
-  [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/pilot2254)
-  [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@pilot2254)
-  [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/pilot2254)
-  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/pilot2254)
-  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCMOgfgoEJt5iMRG9BjlipyQ)
-
-</div>
-
-<br>
-
-<div align="center">
-  
-  ## 💻 Tech Stack
-</div>
-
   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -53,6 +25,3 @@
   ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
   ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
   ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-<br>
-
-Note for myself: #2dd4bf
