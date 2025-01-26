@@ -2,11 +2,11 @@
 
   <br>
 
-  ![Header](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&fontAlign=50&section=footer&reversal=false&textBg=false&fontAlignY=40)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Geist&weight=500&size=35&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&repeat=false&width=435&lines=Hello!+My+name+is+Mike)](https://git.io/typing-svg)
 
   <br>
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Geist&weight=500&size=35&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&repeat=false&width=435&lines=Hello!+My+name+is+Mike)](https://git.io/typing-svg)
+
+  ![Header](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&fontAlign=50&section=footer&reversal=false&textBg=false&fontAlignY=40)
   
   <br>
   
