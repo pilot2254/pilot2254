@@ -2,12 +2,13 @@
 
   <br>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Geist&weight=500&size=35&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&repeat=false&width=435&lines=Hello!+My+name+is+Mike)](https://git.io/typing-svg)
-
+  ![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=2dba4e&text=Hi!%20My%20name%20is%20Mike&fontAlignY=40&fontColor=fafbfc)
+  
   <br>
 
-  ![Header](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&fontAlign=50&section=footer&reversal=false&textBg=false&fontAlignY=40)
-  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Geist&weight=500&size=40&duration=3000&pause=1000&color=2DBA4E&center=true&vCenter=true&width=435&lines=CEO+RedFox+Studios;Game+Developer;App+Developer;UI%2FUX+Designer)](https://git.io/typing-svg)
+
+  <br>
   <br>
   
   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -53,6 +54,6 @@
 
   <br>
   
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Thank%20you%20for%20Visiting!&fontAlign=50&section=header&reversal=false&textBg=false&fontAlignY=40)
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&height=300&color=2dba4e&text=Thanks%20for%20Visiting!&fontAlignY=60&fontColor=fafbfc&section=footer)
 
 </div>
