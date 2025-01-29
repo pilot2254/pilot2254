@@ -6,7 +6,7 @@
   
   <br>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Geist&weight=500&size=40&duration=3000&pause=1000&color=2DBA4E&center=true&vCenter=true&width=435&lines=CEO+RedFox+Studios;Game+Developer;App+Developer;UI%2FUX+Designer)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Geist&weight=500&size=40&duration=3000&pause=1000&color=2DBA4E&center=true&vCenter=true&width=435&lines=Game+Developer;App+Developer;UI%2FUX+Designer;CEO+RedFox+Studios)](https://git.io/typing-svg)
 
   <br>
   <br>
