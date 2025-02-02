@@ -52,6 +52,8 @@
   
   [![pilot2254's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pilot2254&theme=github-compact)](https://github.com/pilot2254)
 
+  ![trophies](https://github-profile-trophy.vercel.app/?username=pilot2254&theme=onestar&row=1&column=9)
+
   <br>
   
   ![Footer](https://capsule-render.vercel.app/api?type=waving&height=300&color=2dba4e&text=Thanks%20for%20Visiting!&fontAlignY=60&fontColor=fafbfc&section=footer)
