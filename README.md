@@ -51,8 +51,8 @@
   ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
   
   <br>
-  
-  [![pilot2254's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pilot2254&theme=github-compact)](https://github.com/pilot2254)
+
+  [![pilot2254's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pilot2254&theme=github-compact&point=00000000&radius=10&&days=60)](https://github.com/pilot2254)
 
   ![trophies](https://github-profile-trophy.vercel.app/?username=pilot2254&theme=onestar&row=1&column=9)
 
