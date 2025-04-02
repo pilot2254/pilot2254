@@ -2,16 +2,16 @@
 
   <br>
 
-  ![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=2dba4e&text=Hi!%20My%20name%20is%20Mike&fontAlignY=40&fontColor=fafbfc)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=5503a6&text=Hi!%20My%20name%20is%20Mike&fontAlignY=40&fontColor=fefefe)
   
   <br>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Geist&weight=500&size=40&duration=3000&pause=1000&color=2DBA4E&center=true&vCenter=true&width=435&lines=Game+Developer;App+Developer;UI%2FUX+Designer;CEO+RedFox+Studios)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Geist&weight=500&size=40&duration=3000&pause=1000&color=fefefe&center=true&vCenter=true&width=435&lines=Game+Developer;App+Developer;UI%2FUX+Designer;CEO+RedFox+Studios)](https://git.io/typing-svg)
 
   <br>
   <br>
   
-  ![VisitCount](https://komarev.com/ghpvc/?username=pilot2254&style=for-the-badge&color=2dba4e)
+  ![VisitCount](https://komarev.com/ghpvc/?username=pilot2254&style=for-the-badge&color=5503a6)
   
   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -52,12 +52,12 @@
   
   <br>
 
-  [![pilot2254's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pilot2254&theme=github-compact&point=00000000&radius=10&&days=60)](https://github.com/pilot2254)
+  [![pilot2254's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pilot2254&line=5503a6&color=fefefe&bg_color=0000000)](https://github.com/pilot2254)
 
   ![trophies](https://github-profile-trophy.vercel.app/?username=pilot2254&theme=onestar&row=1&column=9)
 
   <br>
   
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&height=300&color=2dba4e&text=Thanks%20for%20Visiting!&fontAlignY=60&fontColor=fafbfc&section=footer)
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&height=300&color=5503a6&text=Thanks%20for%20Visiting!&fontAlignY=60&fontColor=fefefe&section=footer)
 
 </div>
