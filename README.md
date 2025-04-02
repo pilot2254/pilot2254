@@ -2,7 +2,7 @@
 
   <br>
 
-  ![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=5503a6&text=Hi!%20My%20name%20is%20Mike&fontAlignY=40&fontColor=fefefe)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=5a00a3&text=Hi!%20My%20name%20is%20Mike&fontAlignY=40&fontColor=fefefe)
   
   <br>
 
@@ -11,7 +11,7 @@
   <br>
   <br>
   
-  ![VisitCount](https://komarev.com/ghpvc/?username=pilot2254&style=for-the-badge&color=5503a6)
+  ![VisitCount](https://komarev.com/ghpvc/?username=pilot2254&style=for-the-badge&color=5a00a3)
   
   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -52,12 +52,12 @@
   
   <br>
 
-  [![pilot2254's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pilot2254&line=5503a6&color=fefefe&bg_color=0000000)](https://github.com/pilot2254)
+  [![pilot2254's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pilot2254&line=5a00a3&color=fefefe&bg_color=0000000)](https://github.com/pilot2254)
 
   ![trophies](https://github-profile-trophy.vercel.app/?username=pilot2254&theme=onestar&row=1&column=9)
 
   <br>
   
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&height=300&color=5503a6&text=Thanks%20for%20Visiting!&fontAlignY=60&fontColor=fefefe&section=footer)
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&height=300&color=5a00a3&text=Thanks%20for%20Visiting!&fontAlignY=60&fontColor=fefefe&section=footer)
 
 </div>
