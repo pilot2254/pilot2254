@@ -16,3 +16,5 @@ A small collection of quotes
 > "If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime."
 
 > "It's really interesting how much you can achieve with "fuck it, we ball" attitude."
+
+> "The most important thing in your life is not what you do. It is who you become."
