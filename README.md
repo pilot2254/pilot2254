@@ -53,7 +53,7 @@
 
   [![pilot2254's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pilot2254&line=5a00a3&color=fefefe&bg_color=0000000)](https://github.com/pilot2254)
 
-  ![trophies](https://github-profile-trophy.vercel.app/?username=pilot2254&theme=onestar&row=1&column=9)
+  ![trophies](https://github-profile-trophy.vercel.app/?username=pilot2254&row=1&column=9&theme=discord&no-frame=true&no-bg=true)
 
   <br>
   
