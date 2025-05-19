@@ -56,10 +56,11 @@
   ![trophies](https://github-profile-trophy.vercel.app/?username=pilot2254&row=1&column=9&theme=onedark&no-frame=true&hide_border=true)
 
   <br>
-
+  
+  ![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pilot2254&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br>
   ![stats](https://github-readme-stats.vercel.app/api?username=pilot2254&theme=onedark&hide_border=true&include_all_commits=true&count_private=true)
   ![streak](https://nirzak-streak-stats.vercel.app/?user=pilot2254&theme=onedark&hide_border=true)
-  ![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pilot2254&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
   
   ![Footer](https://capsule-render.vercel.app/api?type=waving&height=300&color=282c34&text=Thanks%20for%20Visiting!&fontAlignY=60&fontColor=e5c07b&section=footer)
 
