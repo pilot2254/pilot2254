@@ -49,6 +49,9 @@
   ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
   ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
+  ## 💰 You can help me by Donating !
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/pilot2254) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/pilot2254) 
+
   <br>
 
   [![Mike's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pilot2254&custom_title=My%20contribution%20Graph&grid=true&area=true&area_color=e06c75&bg_color=282c34&hide_border=true&radius=16&color=e5c07b&line=e06c75&point=e06c75)](https://github.com/pilot2254)
