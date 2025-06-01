@@ -141,3 +141,7 @@ A comprehensive collection of motivational and thought-provoking quotes to inspi
 > "Your potential is endless. Go do what you were created to do." — Anonymous
 
 > "Remember that guy that gave up? Neither does anyone else." — Anonymous
+
+## Funnies
+
+> "I used to be a fan, but after hearing this masterpiece, I'm a whole air conditioner" - Say this to a music artist
