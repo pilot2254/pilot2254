@@ -62,7 +62,25 @@
   ![stats](https://github-readme-stats.vercel.app/api?username=pilot2254&theme=onedark&hide_border=true&include_all_commits=true&count_private=true)
   ![streak](https://nirzak-streak-stats.vercel.app/?user=pilot2254&theme=onedark&hide_border=true)
 
-  
+  <br>
+
+  ## Pinned Projects
+
+  [![cheat-tables](https://github-readme-stats.vercel.app/api/pin/?username=pilot2254&repo=cheat-tables&theme=onedark&hide_border=true)](https://github.com/pilot2254/cheat-tables)
+  [![reusable-unity-scripts](https://github-readme-stats.vercel.app/api/pin/?username=pilot2254&repo=reusable-unity-scripts&theme=onedark&hide_border=true)](https://github.com/pilot2254/reusable-unity-scripts)
+  [![steam-playtime-farmer](https://github-readme-stats.vercel.app/api/pin/?username=pilot2254&repo=steam-playtime-farmer&theme=onedark&hide_border=true)](https://github.com/pilot2254/steam-playtime-farmer)
+  [![hash-it](https://github-readme-stats.vercel.app/api/pin/?username=pilot2254&repo=hash-it&theme=onedark&hide_border=true)](https://github.com/pilot2254/hash-it)
+  [![guitar-tone-finder](https://github-readme-stats.vercel.app/api/pin/?username=pilot2254&repo=guitar-tone-finder&theme=onedark&hide_border=true)](https://github.com/pilot2254/guitar-tone-finder)
+  [![github-org-membership-visibility-manager](https://github-readme-stats.vercel.app/api/pin/?username=pilot2254&repo=github-org-membership-visibility-manager&theme=onedark&hide_border=true)](https://github.com/pilot2254/github-org-membership-visibility-manager)
+  [![discord-webhook-sender](https://github-readme-stats.vercel.app/api/pin/?username=pilot2254&repo=discord-webhook-sender&theme=onedark&hide_border=true)](https://github.com/pilot2254/discord-webhook-sender)
+  [![discord-webhook-scanner](https://github-readme-stats.vercel.app/api/pin/?username=pilot2254&repo=discord-webhook-scanner&theme=onedark&hide_border=true)](https://github.com/pilot2254/discord-webhook-scanner)
+  [![auto-committer](https://github-readme-stats.vercel.app/api/pin/?username=pilot2254&repo=auto-committer&theme=onedark&hide_border=true)](https://github.com/pilot2254/auto-committer)
+  [![electron-web-renderer](https://github-readme-stats.vercel.app/api/pin/?username=pilot2254&repo=electron-web-renderer&theme=onedark&hide_border=true)](https://github.com/pilot2254/electron-web-renderer)
+  [![terminal-snake](https://github-readme-stats.vercel.app/api/pin/?username=pilot2254&repo=terminal-snake&theme=onedark&hide_border=true)](https://github.com/pilot2254/terminal-snake)
+  [![contrast-bot](https://github-readme-stats.vercel.app/api/pin/?username=contrast-bot&repo=contrast-bot&theme=onedark&hide_border=true)](https://github.com/contrast-bot/contrast-bot)
+  [![ShardDash](https://github-readme-stats.vercel.app/api/pin/?username=redfox-studios&repo=ShardDash&theme=onedark&hide_border=true)](https://github.com/redfox-studios/ShardDash)
+  [![pilot2254.github.io](https://github-readme-stats.vercel.app/api/pin/?username=pilot2254&repo=pilot2254.github.io&theme=onedark&hide_border=true)](https://github.com/pilot2254/pilot2254.github.io)
+    
   ![Footer](https://capsule-render.vercel.app/api?type=waving&height=300&color=282c34&text=Thanks%20for%20Visiting!&fontAlignY=60&fontColor=e5c07b&section=footer)
 
 </div>
