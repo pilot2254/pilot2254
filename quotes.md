@@ -84,6 +84,8 @@ A comprehensive collection of motivational and thought-provoking quotes to inspi
 
 > "Sometimes you need to talk to a three-year-old just so you can understand life again." — Anonymous
 
+> "some people talk to you in their free time; and some free their time to talk to you" — My dad
+
 ## On Programming & Development
 
 > "Programming isn't about what you know; it's about what you can figure out." — Chris Pine
