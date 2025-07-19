@@ -86,6 +86,8 @@ A comprehensive collection of motivational and thought-provoking quotes to inspi
 
 > "some people talk to you in their free time; and some free their time to talk to you" — My dad
 
+> "someone's effort is a reflection of their interest in you"
+
 ## On Programming & Development
 
 > "Programming isn't about what you know; it's about what you can figure out." — Chris Pine
