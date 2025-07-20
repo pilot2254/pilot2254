@@ -1,0 +1,1 @@
+These images are not owned by me, i found the original image here: [creation of adam wallpaper by sam peitz](https://imgur.com/gallery/creation-of-adam-wallpaper-by-sam-peitz-cyD7frm). And then edited it by my needs (see more in `edits/` dir)
