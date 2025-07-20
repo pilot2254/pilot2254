@@ -148,4 +148,4 @@ A comprehensive collection of motivational and thought-provoking quotes to inspi
 
 ## Funnies
 
-> "I used to be a fan, but after hearing this masterpiece, I'm a whole air conditioner" - Say this to a music artist
+> "I used to be a fan, but after hearing this masterpiece, I'm a whole air conditioner" - Say this to a music artist, please
