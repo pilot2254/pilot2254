@@ -1,8 +1,6 @@
 # Quotes Collection
 A comprehensive collection of motivational and thought-provoking quotes to inspire, motivate, and encourage personal growth. I created this collection mainly for myself, but I will be glad if it will help other people too. I also want to say that contributors are welcome.
 
-## On Perseverance & Resilience
-
 ---
 > "**Vita est plena laboribus et lacrimis, sed vera victoria in conscientia superati ipsius est. Non ad finem, sed ad processum tendimus, et in processu vita vera invenitur.**"
 > *(Life is full of struggles and tears, but true victory lies in the knowledge of having conquered oneself. We do not aim for the end, but for the journey, and in that journey, true life is found.)*
@@ -21,8 +19,6 @@ A comprehensive collection of motivational and thought-provoking quotes to inspi
 > "If you're going through hell, keep going." — Winston Churchill
 
 > "Strength doesn't come from what you can do. It comes from overcoming the things you once thought you couldn't." — Rikki Rogers
-
-## On Taking Action & Defeating Laziness
 
 > "If you're afraid to fail, then you're probably going to fail." — Kobe Bryant
 
@@ -44,8 +40,6 @@ A comprehensive collection of motivational and thought-provoking quotes to inspi
 
 > "Action is the foundational key to all success." — Pablo Picasso
 
-## On Learning & Growth
-
 > "If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime."
 
 > "The expert in anything was once a beginner." — Helen Hayes
@@ -60,8 +54,6 @@ A comprehensive collection of motivational and thought-provoking quotes to inspi
 
 > "Coding is today's language of creativity. All our children deserve a chance to become creators instead of consumers of computer science." — Maria Klawe
 
-## On Self-Discovery & Truth
-
 > "Man is least himself when he talks in his own person. Give him a mask, and he will tell you the truth." — Oscar Wilde
 
 > "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment." — Ralph Waldo Emerson
@@ -71,8 +63,6 @@ A comprehensive collection of motivational and thought-provoking quotes to inspi
 > "Your time is limited, don't waste it living someone else's life." — Steve Jobs
 
 > "The two most important days in your life are the day you are born and the day you find out why." — Mark Twain
-
-## On Relationships & Moving Forward
 
 > "Anytime you start to miss her and want to text her, remember that there's a guy in her phone who doesn't have to text her first."
 
@@ -88,8 +78,6 @@ A comprehensive collection of motivational and thought-provoking quotes to inspi
 
 > "someone's effort is a reflection of their interest in you"
 
-## On Programming & Development
-
 > "Programming isn't about what you know; it's about what you can figure out." — Chris Pine
 
 > "The best error message is the one that never shows up." — Thomas Fuchs
@@ -104,8 +92,6 @@ A comprehensive collection of motivational and thought-provoking quotes to inspi
 
 > "Game development is the most challenging and rewarding puzzle you'll ever work on." — Anonymous
 
-## On Mental Health & Wellbeing
-
 > "You don't have to control your thoughts. You just have to stop letting them control you." — Dan Millman
 
 > "Mental health problems don't define who you are. They are something you experience, but you walk in your own shoes." — Anonymous
@@ -115,8 +101,6 @@ A comprehensive collection of motivational and thought-provoking quotes to inspi
 > "What mental health needs is more sunlight, more candor, and more unashamed conversation." — Glenn Close
 
 > "You are not your illness. You have an individual story to tell. You have a name, a history, a personality. Staying yourself is part of the battle." — Julian Seifter
-
-## On Dreams & Ambition
 
 > "The future belongs to those who believe in the beauty of their dreams." — Eleanor Roosevelt
 
@@ -129,8 +113,6 @@ A comprehensive collection of motivational and thought-provoking quotes to inspi
 > "Dream big and dare to fail." — Norman Vaughan
 
 > "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it." — Patrick McKenzie
-
-## Daily Reminders
 
 > "Today is your opportunity to build the tomorrow you want." — Ken Poirot
 
@@ -145,6 +127,8 @@ A comprehensive collection of motivational and thought-provoking quotes to inspi
 > "Your potential is endless. Go do what you were created to do." — Anonymous
 
 > "Remember that guy that gave up? Neither does anyone else." — Anonymous
+
+> "if you're going to reply to me, shut up. i literally don't care. i am allowed to have my opinion, so do you. i stated my opinion, stop replying to my comment." — Random man in youtube comment section
 
 ## Funnies
 
