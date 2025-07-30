@@ -13,6 +13,28 @@
   <br> 
 -->
 
+  # Hello, my name is Mike.
+  
+  I'm a 16-year-old developer based in Slovakia. I started learning web development at 12, and over the years, I’ve expanded my focus to include game development, app development, and automation tools.
+
+  Right now, I’m studying game development at [Skyro.ai](https://skyro.ai/), a private high school that specializes in creative tech. Outside of school, I’m actively working on web projects to keep my skills sharp and experiment with new ideas.
+  
+  Some things I work on:
+  - **Web apps** using HTML/CSS/JS and modern frameworks
+  - **Games** built with Unity Engine and Unreal Engine
+  - **Discord bots** and Node.js tools
+  - Personal tools, experiments, open-source projects, and more!
+  
+  If you're curious about my popular projects, check them out [here](https://pilot2254.github.io/#projects).
+  
+  If you'd like to support what I do:
+  - [Ko-fi](https://ko-fi.com/pilot2254)
+  - [PayPal](https://paypal.me/pilot2254)
+  
+  Thanks for stopping by!
+
+<!--
+
   ## Profile visits:
   ![VisitCount](https://komarev.com/ghpvc/?username=pilot2254&style=for-the-badge&color=282c34)
 
@@ -60,6 +82,7 @@
   [![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pilot2254&custom_title=My%20contribution%20Graph&grid=true&area=true&area_color=e06c75&bg_color=282c34&hide_border=true&radius=16&color=e5c07b&line=e06c75&point=e06c75)](https://github.com/pilot2254)
 
   ![trophies](https://github-profile-trophy.vercel.app/?username=pilot2254&row=1&column=9&theme=onedark&no-frame=true&hide_border=true)
+-->
 
 <!--
   <br>
