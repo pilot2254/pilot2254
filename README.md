@@ -1,3 +1,4 @@
+<!--
 <div align="center">
 
   <br>
@@ -9,10 +10,13 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Geist&weight=500&size=40&duration=3000&pause=1000&color=fefefe&center=true&vCenter=true&width=435&lines=Game+Developer;App+Developer;UI%2FUX+Designer;CEO+RedFox+Studios)](https://git.io/typing-svg)
 
   <br>
-  <br>
-  
+  <br> 
+-->
+
+  ## Profile visits:
   ![VisitCount](https://komarev.com/ghpvc/?username=pilot2254&style=for-the-badge&color=282c34)
-  
+
+  ## What am I working with:
   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -48,23 +52,24 @@
   ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
   ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
-  ## 💰 You can help me by Donating !
+  ## You can support me by Donating !
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/pilot2254) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/pilot2254) 
-
+  
   <br>
 
-  [![Mike's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pilot2254&custom_title=My%20contribution%20Graph&grid=true&area=true&area_color=e06c75&bg_color=282c34&hide_border=true&radius=16&color=e5c07b&line=e06c75&point=e06c75)](https://github.com/pilot2254)
+  [![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pilot2254&custom_title=My%20contribution%20Graph&grid=true&area=true&area_color=e06c75&bg_color=282c34&hide_border=true&radius=16&color=e5c07b&line=e06c75&point=e06c75)](https://github.com/pilot2254)
 
   ![trophies](https://github-profile-trophy.vercel.app/?username=pilot2254&row=1&column=9&theme=onedark&no-frame=true&hide_border=true)
 
+<!--
   <br>
-  <!-- 
   ![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pilot2254&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br>
   ![stats](https://github-readme-stats.vercel.app/api?username=pilot2254&theme=onedark&hide_border=true&include_all_commits=true&count_private=true)
   ![streak](https://nirzak-streak-stats.vercel.app/?user=pilot2254&theme=onedark&hide_border=true)
-  -->
   <br>
+-->
 
+<!--
   ## Pinned Projects
 
   [![cheat-tables](https://github-readme-stats.vercel.app/api/pin/?username=pilot2254&repo=cheat-tables&theme=onedark&hide_border=true)](https://github.com/pilot2254/cheat-tables)
@@ -85,3 +90,4 @@
   ![Footer](https://capsule-render.vercel.app/api?type=waving&height=300&color=282c34&text=Thanks%20for%20Visiting!&fontAlignY=60&fontColor=e5c07b&section=footer)
 
 </div>
+-->
