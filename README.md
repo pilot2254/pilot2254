@@ -32,8 +32,8 @@
   - [PayPal](https://paypal.me/pilot2254)
   
   Thanks for stopping by!
+  <br>  
   ![VisitCount](https://komarev.com/ghpvc/?username=pilot2254&style=for-the-badge&color=282c34)
-
 <!--
 
   ## Profile visits:
