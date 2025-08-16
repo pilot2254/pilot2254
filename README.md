@@ -15,7 +15,7 @@
 
   # Hi there 👋
   
-  My name is Mike. I'm a 16-year-old developer based in Slovakia. I started learning web development at 12, and over the years, I’ve expanded my focus to include game development, app development, and automation tools.
+  My name is Mike. I'm a 16-year-old developer based in Slovakia. I started learning web development at when I was 12, and over the years, I’ve expanded my focus to include game development, app development, and even a little bit of reverse engineering.
 
   Right now, I’m studying game development at [Skyro.ai](https://skyro.ai/), a private high school that specializes in creative tech. Outside of school, I’m actively working on web projects to keep my skills sharp and experiment with new ideas.
   
