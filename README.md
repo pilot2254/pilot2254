@@ -23,7 +23,7 @@
   - **Web apps** using HTML/CSS/JS and modern frameworks
   - **Games** built with Unity Engine and Unreal Engine
   - **Discord bots** and Node.js tools
-  - **Game Cheats** using Cheat Engine, dnSpy, x32dbg. But <ins>only for educational purposes only</ins>
+  - **Game Cheats** using Cheat Engine, dnSpy, x32dbg. But <ins>for educational purposes only</ins>
   - Personal tools, experiments, open-source projects, and more!
   - Currently focusing on learning combination of UE5 and C++ 
   
