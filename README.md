@@ -27,7 +27,7 @@
   - Personal tools, experiments, open-source projects, and more!
   - Currently focusing on learning combination of UE5 and C++ 
   
-  If you're curious about my popular projects, check them out [here](https://pilot2254.github.io/#projects).
+  If you're curious about my popular projects, check them out [here](https://pilot2254.github.io/#projects).<br />
   And if you'd want to check out my learning process, you can check it out [here](https://github.com/michal-flaska).
   
   If you'd like to support what I do:
