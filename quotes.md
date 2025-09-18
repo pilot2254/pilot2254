@@ -5,7 +5,7 @@ A comprehensive collection of motivational and thought-provoking quotes to inspi
 > "**Vita est plena laboribus et lacrimis, sed vera victoria in conscientia superati ipsius est. Non ad finem, sed ad processum tendimus, et in processu vita vera invenitur.**"
 > *(Life is full of struggles and tears, but true victory lies in the knowledge of having conquered oneself. We do not aim for the end, but for the journey, and in that journey, true life is found.)*
 ---
-> If something about me bothers you, just say it. Silence and ignorance hurts more than honesty ever will.
+> "If something about me bothers you, just say it. Silence and ignorance hurts more than honesty ever will." — Me
 ---
 
 > "The struggle you're in today is developing the strength you need for tomorrow." — Robert Tew
