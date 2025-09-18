@@ -132,6 +132,8 @@ A comprehensive collection of motivational and thought-provoking quotes to inspi
 
 > "if you're going to reply to me, shut up. i literally don't care. i am allowed to have my opinion, so do you. i stated my opinion, stop replying to my comment." — Random man in youtube comment section
 
+> "Only the weak put blame on luck." — Arena Breakout: Infinite (loading screen)
+
 ## Funnies
 
 > "I used to be a fan, but after hearing this masterpiece, I'm a whole air conditioner" - Say this to a music artist, please
