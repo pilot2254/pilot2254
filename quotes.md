@@ -134,8 +134,10 @@ A comprehensive collection of motivational and thought-provoking quotes to inspi
 
 > "Only the weak put blame on luck." — Arena Breakout: Infinite (loading screen)
 
-## Funnies
+## Funnies & Social media
 
 > "I used to be a fan, but after hearing this masterpiece, I'm a whole air conditioner" - Say this to a music artist, please
 
 > "Don't trust people who don't put swear words in their code comments."
+
+> "Forgot I was sitting on the toilet watching this smh, my legs are numb. Nice video"
