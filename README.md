@@ -17,15 +17,15 @@
   
   My name is Mike. I'm a 16-year-old developer based in Slovakia. I started learning web development at when I was 12, and over the years, I’ve expanded my focus to include game development, app development, and even a little bit of reverse engineering.
 
-  Right now, I’m studying game development at [Skyro.ai](https://skyro.ai/), a private high school that specializes in creative tech. Outside of school, I’m actively working on web projects to keep my skills sharp and experiment with new ideas.
+  Right now, I’m studying game development at [Skyro.ai](https://skyro.ai/), a private high school that specializes in creative tech. Outside of school, I’m actively working on various projects to keep my skills sharp and experiment with new ideas.
   
   Some things I work on:
-  - **Web apps** using HTML/CSS/JS and modern frameworks
-  - **Games** built with Unity Engine and Unreal Engine
+  - **Websites** using React, NextJS, TypeScript and more.
+  - **Games** built with Unity and Unreal Engine
   - **Discord bots** and Node.js tools
-  - **Game Cheats** using Cheat Engine, dnSpy, x32dbg. But <ins>for educational purposes only</ins>
+  - **Game Cheats** using Cheat Engine, dnSpy, C++ and Lua. But <ins>for educational purposes only</ins>
   - Personal tools, experiments, open-source projects, and more!
-  - Currently focusing on learning combination of UE5 and C++ 
+  - Currently focusing on learning combination of Unreal Engine 5 and C++ 
   
   If you're curious about my popular projects, check them out [here](https://pilot2254.github.io/#projects).<br />
   And if you'd want to check out my learning process, cheats, etc., you can check it out [here](https://github.com/michal-flaska).
