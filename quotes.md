@@ -141,3 +141,5 @@ A comprehensive collection of motivational and thought-provoking quotes to inspi
 > "Don't trust people who don't put swear words in their code comments."
 
 > "Forgot I was sitting on the toilet watching this smh, my legs are numb. Nice video"
+
+> "Today is the youngest you will ever be"
