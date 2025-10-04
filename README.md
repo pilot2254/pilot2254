@@ -20,23 +20,23 @@
   Right now, I’m studying game development at [Skyro.ai](https://skyro.ai/), a private high school that specializes in creative tech. Outside of school, I’m actively working on various projects to keep my skills sharp and experiment with new ideas.
   
   Some things I work on:
-  - **Websites** using React, NextJS, TypeScript and more.
   - **Games** built with Unity and Unreal Engine
-  - **Discord bots** and Node.js tools
   - **Game Cheats** using Cheat Engine, dnSpy, C++ and Lua. But <ins>for educational purposes only</ins>
   - Personal tools, experiments, open-source projects, and more!
-  - Currently focusing on learning combination of Unreal Engine 5 and C++ 
+  - Currently focusing on learning combination of Unreal Engine 5 and C++ and even more Game Cheat dev.
   
   If you're curious about my popular projects, check them out [here](https://pilot2254.github.io/#projects).<br />
-  And if you'd want to check out my learning process, cheats, etc., you can check it out [here](https://github.com/michal-flaska).
+  And if you'd want to check out my learning process, cheats, C++ projects, etc., you can check it out [here](https://github.com/michal-flaska).
   
   If you'd like to support what I do:
   - [Ko-fi](https://ko-fi.com/pilot2254)
   - [PayPal](https://paypal.me/pilot2254)
-  
+
   Thanks for stopping by!
   <br>  
+
   ![VisitCount](https://komarev.com/ghpvc/?username=pilot2254&style=for-the-badge&color=282c34)
+
 <!--
 
   ## Profile visits:
