@@ -134,11 +134,11 @@ A comprehensive collection of motivational and thought-provoking quotes to inspi
 
 > "Only the weak put blame on luck." — Arena Breakout: Infinite (loading screen)
 
-> "Today is the youngest you will ever be"
+> "Today is the youngest you will ever be" — Anonymous
 
-> "you're not lazy, you just need a reason"
+> "you're not lazy, you just need a reason" — Anonymous
 
-> "Maybe someday... some thing i did will make me memorable."
+> "Maybe someday... some thing i did will make me memorable." — Me
 
 ## Funnies & Social media
 
