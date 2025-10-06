@@ -136,6 +136,10 @@ A comprehensive collection of motivational and thought-provoking quotes to inspi
 
 > "Today is the youngest you will ever be"
 
+> "you're not lazy, you just need a reason"
+
+> "Maybe someday... some thing i did will make me memorable."
+
 ## Funnies & Social media
 
 > "I used to be a fan, but after hearing this masterpiece, I'm a whole air conditioner" - Say this to a music artist, please
