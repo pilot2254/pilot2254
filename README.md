@@ -16,30 +16,29 @@
   # Hi there, I'm Mike 👋
 
   16-year-old developer based in Slovakia. I focus on game and app development, low-level research, and open-source tooling.
-  
-  ## About me
+  <br><br>
+  ### About me
   I currently study game development at [Skyro.ai](https://skyro.ai/) and spend my free time building projects that explore engine workflows, performance, and memory analysis. My work is research-oriented and aimed at understanding systems, debugging, and improving software resilience. Not to sell or abuse cheats.
-  
-  ## Notable areas
+  <br><br>
+  ### Notable areas
   - Game development with Unity and Unreal Engine
   - Low-level analysis and reverse engineering for research and defensive purposes
   - C++ tooling, scripting, and plugin development
   - Open-source libraries and personal utilities
-  
+  <br><br>
   ### Ethics and intent
   All projects presented here are research or educational in nature. I do not condone cheating in live multiplayer environments. Where my work touches game security, it is to study vulnerabilities, learn defensive techniques, and responsibly disclose findings.
-  
-  ## Projects and links
+  <br><br>
+  ### Projects and links
   - Portfolio: https://pilot2254.github.io/#projects  
   - Code: https://github.com/michal-flaska  
   - Forks: https://github.com/mike-forked
-  
-  ## Support me
+  <br><br>
+  ### Support me
   - [Ko-fi](https://ko-fi.com/pilot2254)
   - [PayPal](https://paypal.me/pilot2254)
   
-  Thanks for visiting.
-  
+  <br><br><br>
   ![VisitCount](https://komarev.com/ghpvc/?username=pilot2254&style=for-the-badge&color=282c34)
 
 <!--
