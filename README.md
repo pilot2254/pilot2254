@@ -13,29 +13,33 @@
   <br> 
 -->
 
-  # Hi there 👋
-  
-  My name is Mike. I'm a 16-year-old developer based in Slovakia. I started learning web development at when I was 12, and over the years, I’ve expanded my focus to include game development, app development, and even a little bit of reverse engineering.
+  # Hi there, I'm Mike 👋
 
-  Right now, I’m studying game development at [Skyro.ai](https://skyro.ai/), a private high school that specializes in creative tech. Outside of school, I’m actively working on various projects to keep my skills sharp and experiment with new ideas.
+  16-year-old developer based in Slovakia. I focus on game and app development, low-level research, and open-source tooling.
   
-  Some things I work on:
-  - **Games** built with Unity and Unreal Engine
-  - **Game Cheats** using Cheat Engine, dnSpy, C++ and Lua. But <ins>for educational purposes only</ins>
-  - Personal tools, experiments, open-source projects, and more!
-  - Currently focusing on learning combination of Unreal Engine 5 and C++ and even more Game Cheat dev.
+  ## About me
+  I currently study game development at [Skyro.ai](https://skyro.ai/) and spend my free time building projects that explore engine workflows, performance, and memory analysis. My work is research-oriented and aimed at understanding systems, debugging, and improving software resilience. Not to sell or abuse cheats.
   
-  If you're curious about my popular projects, check them out [here](https://pilot2254.github.io/#projects).<br />
-  And if you'd want to check out my learning process, cheats, C++ projects, etc., you can check it out [here](https://github.com/michal-flaska).
-  And if you'd like to check out my forked repositories, they are located [here](https://github.com/mike-forked).
+  ## Notable areas
+  - Game development with Unity and Unreal Engine
+  - Low-level analysis and reverse engineering for research and defensive purposes
+  - C++ tooling, scripting, and plugin development
+  - Open-source libraries and personal utilities
   
-  If you'd like to support what I do:
+  ### Ethics and intent
+  All projects presented here are research or educational in nature. I do not condone cheating in live multiplayer environments. Where my work touches game security, it is to study vulnerabilities, learn defensive techniques, and responsibly disclose findings.
+  
+  ## Projects and links
+  - Portfolio: https://pilot2254.github.io/#projects  
+  - Code: https://github.com/michal-flaska  
+  - Forks: https://github.com/mike-forked
+  
+  ## Support me
   - [Ko-fi](https://ko-fi.com/pilot2254)
   - [PayPal](https://paypal.me/pilot2254)
-
-  Thanks for stopping by!
-  <br>  
-
+  
+  Thanks for visiting.
+  
   ![VisitCount](https://komarev.com/ghpvc/?username=pilot2254&style=for-the-badge&color=282c34)
 
 <!--
