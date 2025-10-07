@@ -27,6 +27,7 @@
   
   If you're curious about my popular projects, check them out [here](https://pilot2254.github.io/#projects).<br />
   And if you'd want to check out my learning process, cheats, C++ projects, etc., you can check it out [here](https://github.com/michal-flaska).
+  And if you'd like to check out my forked repositories, they are located [here](https://github.com/mike-forked).
   
   If you'd like to support what I do:
   - [Ko-fi](https://ko-fi.com/pilot2254)
