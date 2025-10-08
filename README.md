@@ -31,8 +31,8 @@
   <br><br>
   ### Projects and links
   - Portfolio: https://pilot2254.github.io/#projects  
-  - Code: https://github.com/michal-flaska  
-  - Forks: https://github.com/mike-forked
+  - C++, Cheats, education materials: https://github.com/michal-flaska  
+  - Forks of other projects: https://github.com/mike-forked
   <br><br>
   ### Support me
   - [Ko-fi](https://ko-fi.com/pilot2254)
