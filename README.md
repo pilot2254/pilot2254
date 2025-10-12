@@ -40,13 +40,15 @@
   - **BTC:** `bc1qr8x3k39mn7sz2l9kyk8j8293xf5spm2wsxymh9`
   - **ETH:** `0x4281F208799E24531CBE21D4d263C08E7CB68d86`
   
-  <br><br><br>
-  ![VisitCount](https://komarev.com/ghpvc/?username=pilot2254&style=for-the-badge&color=282c34)
-
-
+  <br><br>
+  
   ## Discord (main + contact me):
   [![Discord Presence](https://lanyard.cnrad.dev/api/806496372093616128?theme=dark&idleMessage=I'm%20not%20doing%20anything%20at%20this%20moment.&borderRadius=10px)](https://discord.com/users/806496372093616128)
   [![Discord Presence](https://lanyard.cnrad.dev/api/171395713064894465?theme=dark&idleMessage=I'm%20not%20doing%20anything%20at%20this%20moment.&borderRadius=10px)](https://discord.com/users/171395713064894465)
+
+  <br><br>
+  ![VisitCount](https://komarev.com/ghpvc/?username=pilot2254&style=for-the-badge&color=282c34)
+  
 <!--
 
   ## Profile visits:
