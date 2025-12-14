@@ -15,7 +15,7 @@
 
   # Hi there, I'm Mike 👋
 
-  16-year-old developer based in Slovakia. I focus on game and app development, low-level research, and open-source tooling.
+  not so old developer based in Slovakia. I focus on game and app development, low-level research, and open-source tooling.
   <br><br>
   ### About me
   I currently study game development at [Skyro.ai](https://skyro.ai/) and spend my free time building projects that explore engine workflows, performance, and memory analysis. My work is research-oriented and aimed at understanding systems, debugging, and improving software resilience. Not to sell or abuse cheats.
