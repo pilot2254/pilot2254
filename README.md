@@ -13,9 +13,10 @@
   <br> 
 -->
 
+<!--
   # Hi there, I'm Mike 👋
-
-  not so old developer based in Slovakia. I focus on game and app development, low-level research, and open-source tooling.
+  
+  16 years old developer based in Slovakia. I focus on game and app development, low-level research, and open-source tooling.
   <br><br>
   ### About me
   I currently study game development at [Skyro.ai](https://skyro.ai/) and spend my free time building projects that explore engine workflows, performance, and memory analysis. My work is research-oriented and aimed at understanding systems, debugging, and improving software resilience. Not to sell or abuse cheats.
@@ -29,11 +30,14 @@
   ### Ethics and intent
   All projects presented here are research or educational in nature. I do not condone cheating in live multiplayer environments. Where my work touches game security, it is to study vulnerabilities, learn defensive techniques, and responsibly disclose findings.
   <br><br>
+
+
   ### Projects and links
   - Portfolio: https://pilot2254.github.io/#projects  
   - C++, Cheats, education materials: https://github.com/michal-flaska  
   - Forks of other projects: https://github.com/mike-forked
   <br><br>
+  
   ### Support me
   - [Ko-fi](https://ko-fi.com/pilot2254)
   - [PayPal](https://paypal.me/pilot2254)
@@ -41,10 +45,16 @@
   - **ETH:** `0x4281F208799E24531CBE21D4d263C08E7CB68d86`
   
   <br><br>
+  -->
   
   ## Discord (main + business):
   [![Discord Presence](https://lanyard.cnrad.dev/api/806496372093616128?theme=dark&idleMessage=I'm%20not%20doing%20anything%20at%20this%20moment.&borderRadius=10px)](https://discord.com/users/806496372093616128)
   [![Discord Presence](https://lanyard.cnrad.dev/api/171395713064894465?theme=dark&idleMessage=Send%20all%20messages%20to%20this%20account%20please.&borderRadius=10px)](https://discord.com/users/171395713064894465)
+
+  ### Support me
+  [Ko-fi](https://ko-fi.com/pilot2254) , [PayPal](https://paypal.me/pilot2254)
+  - **BTC:** `bc1qr8x3k39mn7sz2l9kyk8j8293xf5spm2wsxymh9`
+  - **ETH:** `0x4281F208799E24531CBE21D4d263C08E7CB68d86`
 
   <br><br>
   ![VisitCount](https://komarev.com/ghpvc/?username=pilot2254&style=for-the-badge&color=282c34)
