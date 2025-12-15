@@ -172,6 +172,7 @@ Get rid of these for now since GitHub profile info is readily accessible.
 ![GitHub Stars](https://img.shields.io/github/stars/cazzwastaken?style=flat-square&color=000000&labelColor=0d1117&logoColor=ffffff)
 -->
 
+<!--
 </div>
 
 ---
@@ -220,7 +221,5 @@ Connection to github.com closed...
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cazzwastaken&theme=dark&hide_border=true&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41)
 
 </div>
-
--->
 
 -->
