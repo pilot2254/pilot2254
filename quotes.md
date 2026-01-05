@@ -149,3 +149,5 @@ A comprehensive collection of motivational and thought-provoking quotes to inspi
 > "Forgot I was sitting on the toilet watching this smh, my legs are numb. Nice video"
 
 > "Whenever I play fuck-marry-kill I answer ‘’Fuck marriage and kill myself’’"
+
+> "You say you know someone. You say you know who he is, but you don't really know anything. You only know about him what he lets you see. Nothing more. You don't know someone's story. You don't know the depths of someone's soul. You don't know the secrets it holds. You only see what's on the outside. So easy for you to judge without knowing the past. You do it without thinking. What makes you think your judgement is valid and right? Never judge by appearances. Don't hurt other people. Don't judge anyone's path without knowing how that person walked it. Behind every face is a story you don't know. "
