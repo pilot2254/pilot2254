@@ -58,6 +58,7 @@
 
   <br><br>
   ![VisitCount](https://komarev.com/ghpvc/?username=pilot2254&style=for-the-badge&color=282c34)
+  ![GitHub followers](https://img.shields.io/github/followers/pilot2254?style=for-the-badge&logo=github&logoColor=white&color=282c34)
   
 <!--
 
