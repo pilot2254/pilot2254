@@ -57,8 +57,8 @@
   - **ETH:** `0x4281F208799E24531CBE21D4d263C08E7CB68d86`
 
   <br><br>
-  ![VisitCount](https://komarev.com/ghpvc/?username=pilot2254&style=for-the-badge&color=282c34)
-  ![GitHub followers](https://img.shields.io/github/followers/pilot2254?style=for-the-badge&logo=github&logoColor=white&color=282c34)
+  ![VisitCount](https://komarev.com/ghpvc/?username=pilot2254&style=for-the-badge&color=1a1c1f)
+  ![GitHub followers](https://img.shields.io/github/followers/pilot2254?style=for-the-badge&logo=github&logoColor=white&color=1a1c1f)
   
 <!--
 
