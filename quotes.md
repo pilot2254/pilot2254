@@ -140,8 +140,6 @@ A comprehensive collection of motivational and thought-provoking quotes to inspi
 
 > "Maybe someday... some thing i did will make me memorable." — Me
 
-## Funnies & Social media
-
 > "I used to be a fan, but after hearing this masterpiece, I'm a whole air conditioner" - Say this to a music artist, please
 
 > "Don't trust people who don't put swear words in their code comments."
