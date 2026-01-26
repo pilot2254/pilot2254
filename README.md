@@ -62,6 +62,12 @@
 
   > *"that sounds like the most Mike thing I've ever heard"*<br />
   > *—the.nightsky*
+
+  <br><br>
+  
+  ## My Useless GitHub Stats
+
+  ![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=pilot2254&theme=github_dark_dimmed&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
   
 <!--
 
