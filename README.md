@@ -69,6 +69,7 @@
   <br><br>
 
   ### Some stuff I wrote
+  - 2026-01-29: https://pilot2254.github.io/blog/the-right-way-to-learn-a-programming-language/
   - 2026-01-14: https://pilot2254.github.io/blog/unreal-features-you-are-probably-not-using/
   - 2026-01-06: https://pilot2254.github.io/blog/how-to-start-game-hacking/
   - 2026-01-05: https://pilot2254.github.io/blog/how-to-start-reverse-engineering/
