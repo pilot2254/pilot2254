@@ -67,12 +67,21 @@
   > *—the.nightsky*
 
   <br><br>
-  
+
+  ### Some stuff I wrote
+  - 2026-01-14: https://pilot2254.github.io/blog/unreal-features-you-are-probably-not-using/
+  - 2026-01-06: https://pilot2254.github.io/blog/how-to-start-game-hacking/
+  - 2026-01-05: https://pilot2254.github.io/blog/how-to-start-reverse-engineering/
+  - 2025-12-23: https://pilot2254.github.io/blog/reverse-engineering-tools-i-use/
+  - 2025-12-21: https://pilot2254.github.io/blog/why-i-stopped-with-web-development/
+  - 2025-12-21: https://pilot2254.github.io/blog/why-unreal-over-unity/
+
+<!--
+
   ## My Useless GitHub Stats
 
   ![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=pilot2254&theme=github_dark_dimmed&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
   
-<!--
 
   ## Profile visits:
   ![VisitCount](https://komarev.com/ghpvc/?username=pilot2254&style=for-the-badge&color=282c34)
