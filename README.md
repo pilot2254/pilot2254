@@ -47,7 +47,7 @@
   <br><br>
   -->
 
-  ![dihcord banner](./dihcord-banner.png)
+  <!-- ![dihcord banner](./dihcord-banner.png) -->
   
   ## Discord (main + business):
   [![Discord Presence](https://lanyard.cnrad.dev/api/806496372093616128?theme=dark&idleMessage=I'm%20not%20doing%20anything%20at%20this%20moment.&borderRadius=10px)](https://discord.com/users/806496372093616128)
