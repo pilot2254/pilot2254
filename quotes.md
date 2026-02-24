@@ -153,3 +153,5 @@ A comprehensive collection of motivational and thought-provoking quotes to inspi
 > "daily reminder: some girls that make fun of you spent hours painting their face to feel pretty"
 
 > "The graveyards are full of men who thought they had more time"
+
+> "In the first half of life, we learn nonsense, and in the second half, we unlearn it." — Jaroslav Dušek
