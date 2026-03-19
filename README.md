@@ -49,7 +49,7 @@
 
   <!-- ![dihcord banner](./dihcord-banner.png) -->
   
-  ## Discord (main + business):
+  ## Discord (main + contact):
   [![Discord Presence](https://lanyard.cnrad.dev/api/806496372093616128?theme=dark&idleMessage=I'm%20not%20doing%20anything%20at%20this%20moment.&borderRadius=10px)](https://discord.com/users/806496372093616128)
   [![Discord Presence](https://lanyard.cnrad.dev/api/171395713064894465?theme=dark&idleMessage=Send%20all%20messages%20to%20this%20account%20please.&borderRadius=10px)](https://discord.com/users/171395713064894465)
 
