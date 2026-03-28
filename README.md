@@ -54,12 +54,12 @@
   [![Discord Presence](https://lanyard.cnrad.dev/api/171395713064894465?theme=dark&idleMessage=Send%20all%20messages%20to%20this%20account%20please.&borderRadius=10px)](https://discord.com/users/171395713064894465)
 
   ### Support me
-  |        |                                                            |
-  | ------ | ---------------------------------------------------------- |
-  | KoFi   | [https://ko-fi.com/pilot2254](https://ko-fi.com/pilot2254) |
-  | PayPal | [https://paypal.me/pilot2254](https://paypal.me/pilot2254) |
-  | BTC    | bc1qr8x3k39mn7sz2l9kyk8j8293xf5spm2wsxymh9                 |
-  | ETH    | 0x4281F208799E24531CBE21D4d263C08E7CB68d86                 |
+  |            |                                                            |
+  | ---------- | ---------------------------------------------------------- |
+  | **KoFi**   | [https://ko-fi.com/pilot2254](https://ko-fi.com/pilot2254) |
+  | **PayPal** | [https://paypal.me/pilot2254](https://paypal.me/pilot2254) |
+  | **BTC**    | `bc1qr8x3k39mn7sz2l9kyk8j8293xf5spm2wsxymh9`               |
+  | **ETH**    | `0x4281F208799E24531CBE21D4d263C08E7CB68d86`               |
 <!--
 
   ## My Useless GitHub Stats
