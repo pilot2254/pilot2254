@@ -54,33 +54,12 @@
   [![Discord Presence](https://lanyard.cnrad.dev/api/171395713064894465?theme=dark&idleMessage=Send%20all%20messages%20to%20this%20account%20please.&borderRadius=10px)](https://discord.com/users/171395713064894465)
 
   ### Support me
-  [Ko-fi](https://ko-fi.com/pilot2254) , [PayPal](https://paypal.me/pilot2254)
-  - **BTC:** `bc1qr8x3k39mn7sz2l9kyk8j8293xf5spm2wsxymh9`
-  - **ETH:** `0x4281F208799E24531CBE21D4d263C08E7CB68d86`
-
-  <br><br>
-  ![VisitCount](https://komarev.com/ghpvc/?username=pilot2254&style=for-the-badge&color=1a1c1f)
-  ![GitHub followers](https://img.shields.io/github/followers/pilot2254?style=for-the-badge&logo=github&logoColor=white&color=1a1c1f)
-
-  <br><br>
-
-  ### Favorite Quote
-  > *"that sounds like the most Mike thing I've ever heard"*<br />
-  > *—the.nightsky*
-
-  <br><br>
-
-  ### Some stuff I wrote
-  - 2026-03-05: https://pilot2254.github.io/blog/how-i-made-digging-hax/
-  - 2026-02-28: https://pilot2254.github.io/blog/how-i-made-repo-hax/
-  - 2026-01-29: https://pilot2254.github.io/blog/the-right-way-to-learn-a-programming-language/
-  - 2026-01-14: https://pilot2254.github.io/blog/unreal-features-you-are-probably-not-using/
-  - 2026-01-06: https://pilot2254.github.io/blog/how-to-start-game-hacking/
-  - 2026-01-05: https://pilot2254.github.io/blog/how-to-start-reverse-engineering/
-  - 2025-12-23: https://pilot2254.github.io/blog/reverse-engineering-tools-i-use/
-  - 2025-12-21: https://pilot2254.github.io/blog/why-i-stopped-with-web-development/
-  - 2025-12-21: https://pilot2254.github.io/blog/why-unreal-over-unity/
-
+  |        |                                                            |
+  | ------ | ---------------------------------------------------------- |
+  | KoFi   | [https://ko-fi.com/pilot2254](https://ko-fi.com/pilot2254) |
+  | PayPal | [https://paypal.me/pilot2254](https://paypal.me/pilot2254) |
+  | BTC    | bc1qr8x3k39mn7sz2l9kyk8j8293xf5spm2wsxymh9                 |
+  | ETH    | 0x4281F208799E24531CBE21D4d263C08E7CB68d86                 |
 <!--
 
   ## My Useless GitHub Stats
