@@ -9,7 +9,6 @@
     ],
     "trial_donators": [
         { "steamid": "76561199126724901", "expires": "2026-05-01", "note": "daniel" },
-        { "steamid": "76561199158489825", "expires": "2026-05-01", "note": "daniel 2" },
-        { "steamid": "76561199099923178", "expires": "2026-05-01", "note": "mike" }
+        { "steamid": "76561199158489825", "expires": "2026-05-01", "note": "daniel 2" }
     ]
 }
