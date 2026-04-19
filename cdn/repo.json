@@ -1,0 +1,14 @@
+{
+    "version": "2.8.1",
+    "donators": [
+        { "steamid": "76561197960287930", "note": "gabe newell" },
+        { "steamid": "76561199862812336", "note": "bcast (alt)" },
+        { "steamid": "76561199567205781", "note": "bcast" },
+        { "steamid": "76561199213086772", "note": "butwm" },
+        { "steamid": "76561198162852809", "note": "infineru" }
+    ],
+    "trial_donators": [
+        { "steamid": "76561199126724901", "expires": "2026-05-01", "note": "daniel" },
+        { "steamid": "76561199158489825", "expires": "2026-05-01", "note": "daniel 2" }
+    ]
+}
