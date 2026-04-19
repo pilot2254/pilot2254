@@ -10,5 +10,8 @@
     "trial_donators": [
         { "steamid": "76561199126724901", "expires": "2026-05-01", "note": "daniel" },
         { "steamid": "76561199158489825", "expires": "2026-05-01", "note": "daniel 2" }
+    ],
+    "banned": [
+        { "steamid": "76561198800665509", "reason": "death threats" }
     ]
 }
