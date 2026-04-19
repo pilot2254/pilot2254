@@ -13,7 +13,9 @@
         { "steamid": "76561199515017430", "expires": "2026-05-01", "note": "emcizz" },
         { "steamid": "76561199266970775", "expires": "2026-05-01", "note": "vilko" },
         { "steamid": "76561198933598251", "expires": "2026-05-01", "note": "pufferfish" },
-        { "steamid": "76561198755787989", "expires": "2026-05-01", "note": "hoyzboyzz" }
+        { "steamid": "76561198755787989", "expires": "2026-05-01", "note": "hoyzboyzz" },
+        { "steamid": "76561199098744771", "expires": "2026-05-01", "note": "evil_vlado" },
+        { "steamid": "76561198154652483", "expires": "2026-05-01", "note": "martinarthur" }
     ],
     "banned": [
         { "steamid": "76561198800665509", "reason": "death threats" }
