@@ -12,6 +12,7 @@
         { "steamid": "76561199158489825", "expires": "2026-05-01", "note": "daniel 2" }
     ],
     "banned": [
-        { "steamid": "76561198800665509", "reason": "death threats" }
+        { "steamid": "76561198800665509", "reason": "death threats" },
+        { "steamid": "76561199099923178", "reason": "test" }
     ]
 }
