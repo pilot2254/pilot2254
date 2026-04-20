@@ -16,7 +16,8 @@
         { "steamid": "76561198755787989", "expires": "2026-05-01", "note": "hoyzboyzz" },
         { "steamid": "76561199098744771", "expires": "2026-05-01", "note": "evil_vlado" },
         { "steamid": "76561198154652483", "expires": "2026-05-01", "note": "martinarthur" },
-        { "steamid": "76561199871137564", "expires": "2026-05-01", "note": "maki" }
+        { "steamid": "76561199871137564", "expires": "2026-05-01", "note": "maki" },
+        { "steamid": "76561198876487038", "expires": "2026-05-01", "note": "chinese-man" }
     ],
     "banned": [
         { "steamid": "76561198800665509", "reason": "death threats" },
