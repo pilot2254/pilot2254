@@ -20,13 +20,13 @@
         { "steamid": "76561198933598251", "expires": "2026-05-01", "note": "pufferfish" },
         { "steamid": "76561198094939511", "expires": "2026-05-02", "note": "flap operator" },
         { "steamid": "76561198887841344", "expires": "2027-01-01", "note": "eugen" },
-        { "steamid": "76561198088841268", "expires": "2026-05-05", "note": "mommy majka" },
-        { "steamid": "76561199099923178", "expires": "2030-05-05", "note": "migel" }
+        { "steamid": "76561198088841268", "expires": "2026-05-05", "note": "mommy majka" }
     ],
     "banned": [
         { "steamid": "76561198800665509", "reason": "death threats" },
         { "steamid": "76561198044383636", "reason": "semiwork" },
         { "steamid": "76561198320070289", "reason": "semiwork" },
-        { "steamid": "76561199030521552", "reason": "semiwork" }
+        { "steamid": "76561199030521552", "reason": "semiwork" },
+        { "steamid": "76561199099923178", "reason": "test" },
     ]
 }
