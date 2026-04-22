@@ -5,8 +5,7 @@
         { "steamid": "76561199862812336", "note": "bcast (alt)" },
         { "steamid": "76561199567205781", "note": "bcast" },
         { "steamid": "76561199213086772", "note": "butwm" },
-        { "steamid": "76561198162852809", "note": "infineru" },
-        { "steamid": "76561199099923178", "note": "migel" }
+        { "steamid": "76561198162852809", "note": "infineru" }
     ],
     "trial_donators": [
         { "steamid": "76561199126724901", "expires": "2026-05-01", "note": "daniel" },
@@ -21,7 +20,8 @@
         { "steamid": "76561198933598251", "expires": "2026-05-01", "note": "pufferfish" },
         { "steamid": "76561198094939511", "expires": "2026-05-02", "note": "flap operator" },
         { "steamid": "76561198887841344", "expires": "2027-01-01", "note": "eugen" },
-        { "steamid": "76561198088841268", "expires": "2026-05-05", "note": "mommy majka" }
+        { "steamid": "76561198088841268", "expires": "2026-05-05", "note": "mommy majka" },
+        { "steamid": "76561199099923178", "expires": "2030-05-05", "note": "migel" }
     ],
     "banned": [
         { "steamid": "76561198800665509", "reason": "death threats" },
