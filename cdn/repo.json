@@ -28,5 +28,6 @@
         { "steamid": "76561198320070289", "reason": "semiwork" },
         { "steamid": "76561199030521552", "reason": "semiwork" },
         { "steamid": "76561199099923178", "reason": "test" },
+        { "steamid": "76561198887841344", "reason": "reverse engineering my product" }
     ]
 }
