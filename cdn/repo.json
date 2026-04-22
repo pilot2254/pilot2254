@@ -23,10 +23,11 @@
         { "steamid": "76561198088841268", "expires": "2026-05-05", "note": "mommy majka" }
     ],
     "banned": [
-        { "steamid": "76561198800665509", "reason": "death threats" },
+        { "steamid": "76561198800665509", "reason": "threatening" },
         { "steamid": "76561198044383636", "reason": "semiwork" },
         { "steamid": "76561198320070289", "reason": "semiwork" },
         { "steamid": "76561199030521552", "reason": "semiwork" },
-        { "steamid": "76561198887841344", "reason": "reverse engineering my product" }
+        { "steamid": "76561198887841344", "reason": "reverse engineering my product" },
+        { "steamid": "76561199200563736", "reason": "death threats" }
     ]
 }
