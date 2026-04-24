@@ -1,34 +1,6 @@
 {
-    "version": "3.6.1",
-    "donators": [
-        { "steamid": "76561197960287930", "note": "gabe newell" },
-        { "steamid": "76561199862812336", "note": "bcast (alt)" },
-        { "steamid": "76561199567205781", "note": "bcast" },
-        { "steamid": "76561199213086772", "note": "butwm" },
-        { "steamid": "76561198162852809", "note": "infineru" },
-        { "steamid": "76561198972352116", "note": "junmoye" }
-    ],
-    "trial_donators": [
-        { "steamid": "76561199126724901", "expires": "2026-05-01", "note": "daniel" },
-        { "steamid": "76561199158489825", "expires": "2026-05-01", "note": "daniel 2" },
-        { "steamid": "76561199515017430", "expires": "2027-01-01", "note": "emcizz" },
-        { "steamid": "76561199266970775", "expires": "2026-05-01", "note": "vilko" },
-        { "steamid": "76561198755787989", "expires": "2026-05-01", "note": "hoyzboyzz" },
-        { "steamid": "76561199098744771", "expires": "2026-05-01", "note": "evil_vlado" },
-        { "steamid": "76561198154652483", "expires": "2026-05-01", "note": "martinarthur" },
-        { "steamid": "76561199871137564", "expires": "2026-05-01", "note": "maki" },
-        { "steamid": "76561198876487038", "expires": "2026-05-01", "note": "chinese-man" },
-        { "steamid": "76561198933598251", "expires": "2026-05-01", "note": "pufferfish" },
-        { "steamid": "76561198094939511", "expires": "2026-05-02", "note": "flap operator" },
-        { "steamid": "76561198887841344", "expires": "2027-01-01", "note": "eugen" },
-        { "steamid": "76561198088841268", "expires": "2026-05-05", "note": "mommy majka" }
-    ],
-    "banned": [
-        { "steamid": "76561198800665509", "reason": "threatening" },
-        { "steamid": "76561198044383636", "reason": "semiwork" },
-        { "steamid": "76561198320070289", "reason": "semiwork" },
-        { "steamid": "76561199030521552", "reason": "semiwork" },
-        { "steamid": "76561198887841344", "reason": "reverse engineering my product" },
-        { "steamid": "76561199200563736", "reason": "death threats" }
-    ]
+    "version": "9.9.9",
+    "donators": [],
+    "trial_donators": [],
+    "banned": []
 }
