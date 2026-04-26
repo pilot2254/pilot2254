@@ -60,10 +60,6 @@
   | **PayPal** | [https://paypal.me/pilot2254](https://paypal.me/pilot2254) |
   | **BTC**    | `bc1qr8x3k39mn7sz2l9kyk8j8293xf5spm2wsxymh9`               |
   | **ETH**    | `0x4281F208799E24531CBE21D4d263C08E7CB68d86`               |
-
-  <br>
-
-  my community: https://discord.gg/BwyUaYcbvC
 <!--
 
   ## My Useless GitHub Stats
